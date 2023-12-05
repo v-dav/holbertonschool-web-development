@@ -4,6 +4,7 @@
 ![CSS](https://img.shields.io/badge/CSS-3-blue?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 
+![ux-store-jJT2r2n7lYA-unsplash](https://github.com/v-dav/holbertonschool-web-development/assets/115344057/9a5d0477-1113-49a0-b837-6770f64c27a2)
 
 ## Project Overview
 
