@@ -25,3 +25,26 @@
 	font-weight: normal;
 	font-style: normal;
 }
+
+* {
+	margin: 0;
+}
+
+header {
+	display: flex;
+	position: absolute;
+	justify-content: space-between;
+}
+
+header nav a {
+	font-family: 'Source Sans Pro - Bold';
+	text-decoration: none;
+	color: white;
+	text-transform: uppercase;
+}
+
+.first-section {
+	background-image: url(../img/background.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
