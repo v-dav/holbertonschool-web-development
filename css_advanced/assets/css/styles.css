@@ -22,12 +22,12 @@
 @font-face {
 	font-family: 'Source Sans Pro - Light';
 	src: url(../fonts/source-sans-pro/SourceSansPro-Light.otf);
-	font-weight: normal;
 	font-style: normal;
 }
 
 * {
 	margin: 0;
+	color: white;
 }
 
 header {
@@ -48,8 +48,8 @@ header nav {
 header nav a {
 	font-family: 'Source Sans Pro - Bold';
 	text-decoration: none;
-	color: white;
 	text-transform: uppercase;
+	font-size: 12px;
 }
 
 .website-logo {
@@ -63,16 +63,85 @@ header nav a {
 	display: flex;
 	flex-direction: column;
 	align-items: center;
-	height: 100vh;
+	height: 100%;
 }
 
 .banner {
 	display: flex;
 	flex-direction: column;
 	align-items: center;
+	margin-top: 250px;
+}
+
+.main-title {
+	font-size: 120px;
+	font-family: 'Source Sans Pro - Bold';
+}
+
+.first-section div h2 {
+	text-align: center;
+	font-family: 'Source Sans Pro - Light';
+	font-size: 32px;
+}
+
+
+.under-banner {
+	word-spacing: 50px;
+	text-transform: uppercase;
+	font-family: 'Source Sans Pro - Bold';
+	font-size: 16px;
+}
+
+.first-section div button {
+	font-family: 'Source Sans Pro - Semibold';
+	background-color: #C271FF;
+	margin-top: 40px;
+	text-transform: uppercase;
+	padding: 15px 35px 15px 35px;
+	font-size: 14px;
+	border-radius: 50px;
+	border: none;
+	box-shadow: 0px 0px 50px 2px rgba(0, 0, 0, 0.8);
 }
 
 .pros {
 	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	margin-top: 150px;
+	font-family: 'Source Sans Pro - Regular';
+	width: 100%;
+}
+
+.testimonials {
+	display: flex;
 	flex-direction: row;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	justify-content: space-between;
+	margin-left: 100px;
+	margin-right: 100px;
+}
+
+.bold-purple-text {
+	color: #C271FF;
+	font-family: 'Source Sans Pro - Bold';
+}
+
+.avatar {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: space-between;
+	width: 160px;
+}
+
+.avatar img, .avatar h3, .avatar p {
+	margin: 5px;
+}
+
+.avatar p {
+	font-style: italic;
+	text-align: center;
+	font-size: 16px;
 }
