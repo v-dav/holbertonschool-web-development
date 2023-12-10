@@ -3,6 +3,8 @@
 ![HTML](https://img.shields.io/badge/HTML-5-blue?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-3-blue?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript&logoColor=white)
+[![Figma](https://img.shields.io/badge/Figma-Design-blue?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
+
 
 ![image](https://github.com/v-dav/holbertonschool-web-development/assets/115344057/c58962ad-e343-4f72-8ce6-40a5804240b2)
 
