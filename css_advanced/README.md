@@ -8,7 +8,7 @@
 
 ## 🖥️ Project Overview
 
-Welcome to the CSS - Advanced project! This hands-on project is designed to enhance your skills in Cascading Style Sheets (CSS) by exploring advanced topics and techniques. By the end of this project, you will have a deeper understanding of CSS, its specificity rules, box properties, and how styles are applied to elements in a webpage.
+Welcome to the CSS - Advanced project! This hands-on project is designed to enhance your skills in Cascading Style Sheets (CSS) by exploring advanced topics and techniques and by implementing a web page from a Figma designer file. By the end of this project, you will have a deeper understanding of CSS, its specificity rules, box properties, and how styles are applied to elements in a webpage.
 
 ##  🧐 Learning Objectives
 
