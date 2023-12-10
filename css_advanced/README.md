@@ -41,6 +41,8 @@ By the end of this project, you will be able to explain the following concepts w
 
 ##  📸 Web Page Screenshot
 
+The web page can be accessed via https://v-dav.github.io/holbertonschool-web-development/css_advanced/
+
 ![image](https://github.com/v-dav/holbertonschool-web-development/assets/115344057/a73f2f52-cfed-47df-9826-8af9f4b733a8)
 
 ## 🙇 Author
