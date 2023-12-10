@@ -281,3 +281,50 @@ blockquote {
 	font-family: 'Source Sans Pro - Semibold';
 	font-size: 18px;
 }
+
+.faq-section h1 {
+	margin: 75px 0 75px 0;
+	font-family: 'Source Sans Pro - Light';
+	text-transform: uppercase;
+	color: black;
+	font-size: 60px;
+	text-align: center;
+}
+
+.faq-div {
+	color: black;
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: row;
+	margin: 0px 200px 0px 200px;
+	justify-content: space-between;
+}
+
+.faq-row {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	margin-bottom: 75px;
+}
+
+.faq-item {
+	margin: 0 75px;
+}
+
+.faq-item h2 {
+	font-family: 'Source Sans Pro - Bold';
+	font-size: 16px;
+	margin-bottom: 20px;
+}
+
+.faq-item {
+	margin: 0 50px;
+	width: 25%;
+}
+
+.faq-item p {
+	font-family: 'Source Sans Pro - Regular';
+	font-size: 14px;
+	color: gray;
+	line-height: 1.5;
+}
