@@ -37,6 +37,11 @@ By the end of this project, you will be able to explain the following concepts w
 - You are not allowed to install, import, or use external libraries. This website must be built with only HTML/CSS/JavaScript. No NodeJS, React, VueJS, Bootstrap, etc.
 - Your code should be W3C compliant and validate with W3C-Validator
 
+## Page layout
+
+![97c8976d2ff5ff1871d7a0815b72773379df6acb](https://github.com/v-dav/holbertonschool-web-development/assets/115344057/d8be1bb7-45d9-4134-b72a-379727c1744c)
+
+
 ## Author
 
 - [Vladimir Davidov](https://github.com/v-dav) - Holberton School
