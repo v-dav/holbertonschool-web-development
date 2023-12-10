@@ -27,6 +27,9 @@
 
 * {
 	margin: 0;
+}
+
+body {
 	color: white;
 }
 
@@ -50,6 +53,7 @@ header nav a {
 	text-decoration: none;
 	text-transform: uppercase;
 	font-size: 12px;
+	color: white;
 }
 
 .website-logo {
@@ -102,6 +106,7 @@ header nav a {
 	border-radius: 50px;
 	border: none;
 	box-shadow: 0px 0px 50px 2px rgba(0, 0, 0, 0.8);
+	color: white;
 }
 
 .pros {
@@ -118,7 +123,7 @@ header nav a {
 	flex-direction: row;
 	margin-top: 50px;
 	margin-bottom: 50px;
-	justify-content: space-between;
+	justify-content: space-around;
 	margin-left: 100px;
 	margin-right: 100px;
 }
@@ -144,4 +149,93 @@ header nav a {
 	font-style: italic;
 	text-align: center;
 	font-size: 16px;
+}
+
+.quote-section {
+	background-color: #C271FF;
+}
+
+.quote {
+	display: flex;
+	justify-content: center;
+	padding: 100px 150px 100px 150px;
+	align-items: center;
+	font-size: 22px;
+	font-family: 'Source Sans Pro - Light';
+	line-height: 24pt;
+}
+
+.quote img {
+	margin-right: 75px;
+}
+
+blockquote {
+	padding-right: 50px;
+	margin-bottom: 20px;
+}
+
+.person_name {
+	font-family: 'Source Sans Pro - Bold';
+}
+
+.job {
+	font-style: italic;
+}
+
+.tutorial-section {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin: 75px 150px 75px 150px;
+	color: black;
+}
+
+.all-tutorials {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	width: 100%;
+}
+
+.tutorial-section h1 {
+	margin-bottom: 75px;
+	font-family: 'Source Sans Pro - Light';
+	font-size: 32px;
+}
+
+.one-tutorial {
+	display: flex;
+	flex-direction: column;
+	align-items: start;
+	justify-content: space-between;
+	width: 250px;
+}
+
+.author {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+}
+
+.author img {
+	width: 30px;
+	height: 30px;
+	margin-right: 15px;
+}
+
+.author h3 {
+	font-family: 'Source Sans Pro - Regular';
+	color: #C271FF;
+}
+
+.review {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	width: 100%;
+	color: #C271FF;
+}
+
+.element {
+	margin-bottom: 20px;
 }
